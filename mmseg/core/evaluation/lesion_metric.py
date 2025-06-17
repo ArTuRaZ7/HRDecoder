@@ -1,6 +1,6 @@
 SIGMOID_THRESH = 0.5
 
-from tkinter import Label
+from Tkinter import Label
 import numpy as np
 from sklearn.metrics import auc,roc_auc_score,mean_absolute_error,roc_curve
 
